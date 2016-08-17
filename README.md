@@ -1,5 +1,5 @@
-# Angular 2 QuickStart Source
-[![Build Status][travis-badge]][travis-badge-url]
+# Videoportal (based on Angular 2 QuickStart Source code)
+[![Build Status](https://travis-ci.org/FrameBassman/git-videoportal.svg?branch=master)](https://travis-ci.org/FrameBassman/git-videoportal)
 
 This repository holds the TypeScript source code of the [angular.io quickstart](https://angular.io/docs/ts/latest/quickstart.html),
 the foundation for most of the documentation samples and potentially a good starting point for your application.
